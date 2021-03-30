@@ -1,0 +1,40 @@
+li{
+    list-style-type: none;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(17, 142, 192);
+
+    border-bottom: 10px solid #b40e0e;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.filter{
+    color: rgb(172, 139, 139);
+    opacity: 0;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+/* 
+.filter:hover{
+    opacity: 1;
+} */
+
+footer{
+    background-color: rgb(190, 136, 61);
+    border-top: 4px solid black;
+    padding-bottom: 2px;
+    line-height: 1;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
