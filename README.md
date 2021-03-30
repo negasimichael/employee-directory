@@ -71,6 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+ ## Screenshot Image
+   
+![employee-directory](public/Assets/Image/employee1.png)
+
+## Contribution
+  [negasimichael](https://github.com/negasimichael/employee-directory) is the only contrubuter of this project .
 
 ## Developer Contact Information
   * Linkedin Profile: [negasimichael](https://www.linkedin.com/feed/)
