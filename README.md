@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  ## Screenshot Image
    
 ![employee-directory](public/Assets/Image/employee1.png)
-
+![employee-directory](public/Assets/Image/employee2.png)
 ## Contribution
   [negasimichael](https://github.com/negasimichael/employee-directory) is the only contrubuter of this project .
 
